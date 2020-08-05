@@ -1,0 +1,27 @@
+{
+  "name": "vue-cli-plugin-echarts",
+  "version": "0.1.0",
+  "description": "Vue cli plugin to add vue-echarts.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomyline/vue-cli-plugin-echarts.git"
+  },
+  "keywords": [
+    "@vue/cli",
+    "service",
+    "plugin."
+  ],
+  "author": "AlanWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gloomyline/vue-cli-plugin-echarts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomyline/vue-cli-plugin-echarts.git"
+  },
+  "homepage": "https://github.com/gloomyline/vue-cli-plugin-echarts#readme"
+}
